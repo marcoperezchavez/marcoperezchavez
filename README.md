@@ -25,7 +25,8 @@ https://www.youtube.com/c/PMFOXTechnologies
 - 👀 I’m interested in Technology and create content
 - 🌱 I’m currently learning about new technologies like Azure, AWS, ReactJS, React Native, Angular, .NET Core and more.
 - 💞️ I’m looking to collaborate on different projects and grow together.
-- 📫 How to reach me. 
-YouTube => [https://www.youtube.com/c/PMFOXTechnologies](https://www.youtube.com/c/PMFOXTechnologies)
-Linkedin => [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📫 How to reach me.
+
+* YouTube => [https://www.youtube.com/c/PMFOXTechnologies](https://www.youtube.com/c/PMFOXTechnologies)
+* Linkedin => [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
