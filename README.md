@@ -28,5 +28,6 @@ https://www.youtube.com/c/PMFOXTechnologies
 - 📫 How to reach me.
 
 * YouTube => [https://www.youtube.com/c/PMFOXTechnologies](https://www.youtube.com/c/PMFOXTechnologies)
+* Twitch => [https://www.twitch.tv/pmfoxtechnologies?sr=a](https://www.twitch.tv/pmfoxtechnologies?sr=a)
 * Linkedin => [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
