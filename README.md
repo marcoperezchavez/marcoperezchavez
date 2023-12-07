@@ -25,12 +25,10 @@
 - Skilled in version control with Team Foundation Server (TFS) and GIT.
 
 
--- 👀 I’m interested in Technology and create content
--- 🌱 I’m currently learning about new technologies like Azure, AWS, ReactJS, React Native, Angular, .NET Core, and more.
--- 💞️ I’m looking to collaborate on different projects and grow together.
--- 📫 How to reach me.
+** 👀 I’m interested in Technology and create content
+** 🌱 I’m currently learning about new technologies like Azure, AWS, ReactJS, React Native, Angular, .NET Core, and more.
+** 💞️ I’m looking to collaborate on different projects and grow together.
+** 📫 How to reach me.
 
---- YouTube => [https://www.youtube.com/c/PMFOXTechnologies](https://www.youtube.com/c/PMFOXTechnologies)
---- Twitch => [https://www.twitch.tv/pmfoxtechnologies?sr=a](https://www.twitch.tv/pmfoxtechnologies?sr=a)
---- Linkedin => [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+*** [YouTube](https://www.youtube.com/c/PMFOXTechnologies) == [Twitch](https://www.twitch.tv/pmfoxtechnologies?sr=a) == [Linkedin](https://www.linkedin.com/feed/)
 
