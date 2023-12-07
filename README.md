@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marcoperezchavez
 
 I am .NET Technical Lead and content creator
-Linkedin => 
-Channels => [Youtube](https://www.youtube.com/@PMFOXTECHNOLOGIES) == [Twitch](https://www.twitch.tv/pmfoxtechnologies)
+- [Linkedin](https://www.linkedin.com/in/marcoperezchavez/)
+- Channels => [Youtube](https://www.youtube.com/@PMFOXTECHNOLOGIES) == [Twitch](https://www.twitch.tv/pmfoxtechnologies)
 
 
 # SUMMARY:
