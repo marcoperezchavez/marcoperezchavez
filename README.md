@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marco Antonio de Jesus Perez Chavez
 
-## I am a .NET Technical Lead and content creator
+## I am a fullstack .NET/Javascript(Angular, ReactJS, jQuery) developer, Technical Lead and content creator.
 - [Linkedin](https://www.linkedin.com/in/marcoperezchavez/)
 - Channels => [Youtube](https://www.youtube.com/@PMFOXTECHNOLOGIES) == [Twitch](https://www.twitch.tv/pmfoxtechnologies)
 
