@@ -4,29 +4,43 @@
 - [Linkedin](https://www.linkedin.com/in/marcoperezchavez/)
 - Channels => [Youtube](https://www.youtube.com/@PMFOXTECH) == [Twitch](https://www.twitch.tv/pmfoxtechnologies)
 
-
 # SUMMARY:
 
--	Tech Lead Net and FullStack .Net developer with 11 years of broad experience in Analysis, Design, Development, Implementation, and Support of various Client-Server applications, multi-tier applications, Web-based applications, and Web Services.
-- Extensive development experience in Microsoft .Net technologies such as C# .Net, ASP.NET MVC, .Net Core (1x, 2x, 3x, 5, and 6), concurrency, Entity Framework/Core, MVC, Web API, and Microsoft SQL Server on the Server Side, and HTML5, CSS3, JavaScript, typescript jQuery, Angular, and React.
-- Experience working with unit testing: XUnit, Microsoft unit testing, Jazmine, Jest, and Karma.
-- Experience in leadership and mentoring junior developers.
-- Experience working with Windows services and microservices.
-- Experience in microservices communication and messaging queue handling, as well as working with large datasets.
-- Good experience with CSS3 and HTML, creating UI styles and DOM manipulation.
-- Experience working with SQL databases, developing, and maintaining Stored Procedures, Views, Functions, T-SQL in MS SQL Server (2000/2005/2008/2012/2019), PL/SQL, and PostgreSQL.
-- Experience working with No-SQL DBs like MongoDB and firebaseDB.
-- Experience working with cloud technologies such as Azure, AWS, and Firebase.
-- Experience with Azure DevOps, CD/CI, JIRA, and TeamCity.
-- Experience working with containers with Docker containers and a little with Kubernetes.
-- Experienced in creating reports using SQL Reporting Services.
-- Experience with Development methodologies like Agile (scrum and Kanban) and Waterfall models.
-- Leadership in teams, creating tasks, and planning assignments for each developer.
-- Skilled in version control with Team Foundation Server (TFS) and GIT.
+Tech Lead .NET & Full Stack Developer (Angular and React) | Cloud Developer (Azure, AWS, Firebase). Results-driven professional with 12+ years of experience in analysis, development, and implementation of client-server systems, multi-tier applications, web-based solutions, PWAs, mobile apps, desktop applications, and cloud services.
 
+•	Extensive expertise in backend development (C#, .NET Core, ASP.NET, Microservices, docker, Kubernetes) and frontend frameworks (Angular, ReactJS, NextJS) and XAML.
 
+•	Proven experience in Azure, AWS, and Firebase, integrating scalable and high-performance solutions.
+
+•	Skilled in DevOps practices, unit testing, and database optimization for enterprise-grade applications.
+
+•	Experienced in developing chatbots using the Microsoft Bot Framework, enabling dynamic user interactions.
+
+•	Proficient in reporting tools like SSRS and SSIS, ensuring seamless data visualization and ETL workflows.
+
+•	Adept in Agile methodologies, team leadership, and mentoring developers to achieve high-quality results.
+
+# **TECHNICAL SKILLS**
+
+**•	Backend Development**	C#, .NET Core (8/6/5/2x/3x), .NET Framework (4.5/3.5), ASP.NET, ASP.NET MVC5, Entity Framework/Core, Web API, Microservices, WCF, LINQ, Python, Java, NodeJS, Docker, Kubernetes.
+
+**•	Frontend Development**	Angular (1–18), ReactJS (14–17), NextJS, HTML5, XAML, CSS3, JavaScript, TypeScript, Bootstrap, FluentUI, SASS, Ionic, Xamarin, React Native
+
+**•	Cloud Platforms	Azure** (Functions, Service Bus, MS queue, CosmosDB, App Services, SQL Server, Key Vault, Monitor, Data factory, apps service, container apps), AWS (S3, EC2, DynamoDB, Lambda), Firebase (FirebaseDB, Web Apps)
+
+**•	Databases**	SQL Server (2005–2022), PostgreSQL, MongoDB, CosmosDB, FirebaseDB, DynamoDB
+
+**•	Testing & DevOps**	XUnit, Jasmine, Jest, Karma, Azure DevOps, CI/CD, Docker, Kubernetes (basic), GitHub, JIRA, TeamCity
+
+**•	Reporting Tools**	SSRS, SSIS
+
+**•	Agile Methodologies**	Scrum, Kanban
+
+**•	Version Control**	Git, TFS
+
+#
 - 👀 I’m interested in Technology and create content
-- 🌱 I’m currently learning about new technologies like Azure, AWS, ReactJS, React Native, Angular, .NET Core, and more.
+- 🌱 I’m learning about new technologies like Azure, AWS, ReactJS, React Native, Angular, .NET Core, and more.
 - 💞️ I’m looking to collaborate on different projects and grow together.
 - 📫 How to reach me.
 
