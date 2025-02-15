@@ -2,7 +2,8 @@
 
 ## I am a fullstack .NET/Javascript(Angular, ReactJS, jQuery) developer, Technical Lead and content creator.
 - [Linkedin](https://www.linkedin.com/in/marcoperezchavez/)
-- Channels => [Youtube](https://www.youtube.com/@PMFOXTECH) == [Twitch](https://www.twitch.tv/pmfoxtechnologies)
+- Channels => [Youtube](https://www.youtube.com/@PMFOXTECH)
+- [Twitch](https://www.twitch.tv/pmfoxtechnologies)
 
 # SUMMARY:
 
